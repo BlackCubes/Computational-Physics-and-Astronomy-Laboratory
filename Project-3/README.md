@@ -1,4 +1,4 @@
-/* ISING SWORD */
+# ISING SWORD
 
 What's up everyone!
 
