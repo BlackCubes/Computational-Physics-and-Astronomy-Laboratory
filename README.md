@@ -1,6 +1,6 @@
 # Computational-Physics-and-Astronomy-Laboratory
 
-What's up everyone! This is a physics course which is titled PHYSICS 188B: Computational Physics and Astronomy Laboratory held at UCLA which I took as an undergraduate.
+What's up everyone! This is a physics course which is title "PHYSICS 188B: Computational Physics and Astronomy Laboratory" held at UCLA which I took as an undergraduate.
 
 The course description is such that it is a project-based course, with projects selected from core areas of classical mechanics, electrodynamics, quantum physics, statistical physics, and astronomy. Introduction to problems and to required numerical methods in lectures so students can write programs in one modern programming language of their choice (Python recommended) and carry out numerical experiments with it, with results documented in reports.
 
