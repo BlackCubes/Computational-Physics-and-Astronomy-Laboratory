@@ -1,10 +1,9 @@
 # Computational-Physics-and-Astronomy-Laboratory
 
-What's up everyone!
+What's up everyone! This is a physics course which is titled PHYSICS 188B: Computational Physics and Astronomy Laboratory held at UCLA which I took as an undergraduate.
 
-This here was my third assignment I did for my Computational Physics and Astronomy class (PHYS 188B). We explored the 2D Ising Model by using markov chain monte carlo to compute approximate average of physical quantities.
+The course description is such that it is a project-based course, with projects selected from core areas of classical mechanics, electrodynamics, quantum physics, statistical physics, and astronomy. Introduction to problems and to required numerical methods in lectures so students can write programs in one modern programming language of their choice (Python recommended) and carry out numerical experiments with it, with results documented in reports.
 
-It was coded using Python as well as using the Jupyter Notebook. There are two files under '.py' and '.ipynb', and the '.ipynb' would be opened using Jupyter. Two more files are also provided which are in pdf format: The 'HW_Description' is the description of the homework assigment given by the instructor for the students to perform, and the 'Ising_Report' is my two-column lab report written in LaTex.
+Please do look through some of the folders which have the assignment homeworks in PDF given from the teacher to complete, my reports coded in LaTex and exported as a PDF with some of them being in a two-column APS style, and my assigments both in python (.py) and jupyter notebook (.ipynb) files.
 
-Any questions, comments, or even changes are highly appreciated! Thank you for taking the time to look at my repository!
-
+Any questions or comments are highly appreciated! Thanks, and enjoy looking through my files!
