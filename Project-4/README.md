@@ -1,4 +1,4 @@
-/* SPECTRAL SPOTS */
+# SPECTRAL SPOTS
 
 What's up everyone!
 
