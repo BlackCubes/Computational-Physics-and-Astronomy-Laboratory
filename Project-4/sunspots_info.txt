@@ -1,0 +1,9 @@
+Source: http://www.sidc.be/silso/, WDC-SILSO, Royal Observatory of Belgium, Brussels.
+Start date: 01/01/1966
+End date: 01/01/2016
+Resolution: 1 month
+Columns:
+#1 - fractional date [year],
+#2 - monthly mean total sunspot number,
+#3 - monthly mean standard deviation,
+#4 - number of observations used to compute the monthly mean.

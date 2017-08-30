@@ -1,0 +1,9 @@
+Source: http://cosmicrays.oulu.fi/, Oulu Cosmic Ray Station, Sodankyla Geophysical Observatory, Finland.
+Start date: 01/01/1966
+End date: 01/01/2016
+Resolution: 1 month
+Columns:
+#1 - fractional date [year],
+#2 - uncorrected count rates [counts/min],
+#3 - corrected (for pressure and efficiency) count rates [counts/min],
+#4 - barometric pressure [mbar].
