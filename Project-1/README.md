@@ -1,4 +1,4 @@
-/* Runge Kutta */
+/* RUNGE KUTTA */
 
 What's up everyone!
 
