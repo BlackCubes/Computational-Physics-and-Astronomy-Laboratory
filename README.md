@@ -1,4 +1,4 @@
-# Ising-Sword
+# Computational-Physics-and-Astronomy-Laboratory
 
 What's up everyone!
 
